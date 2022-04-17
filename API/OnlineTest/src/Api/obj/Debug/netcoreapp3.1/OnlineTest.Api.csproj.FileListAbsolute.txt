@@ -1,0 +1,391 @@
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.exe
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.deps.json
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.json
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.dev.json
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfo.cs
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.xml
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineTest.Api.styles.css
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.genruntimeconfig.cache
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.exe
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.deps.json
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.json
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.dev.json
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.AssemblyReference.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfoInputs.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfo.cs
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CoreCompileInputs.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.Manifest.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.xml
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineTest.Api.styles.css
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.RazorTargetAssemblyInfo.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.dll
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.genruntimeconfig.cache
+D:\OSC\Project\OnlineTest\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CopyComplete
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.exe
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.deps.json
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.json
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.dev.json
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.AssemblyReference.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfoInputs.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfo.cs
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CoreCompileInputs.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.Manifest.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.xml
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineTest.Api.styles.css
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.RazorTargetAssemblyInfo.cache
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.dll
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.genruntimeconfig.cache
+D:\OSC\Project\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Hellang.Middleware.ProblemDetails.dll
+D:\OSC\Project\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CopyComplete
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfo.cs
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.exe
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.deps.json
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.json
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.dev.json
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Hellang.Middleware.ProblemDetails.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.xml
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineTest.Api.styles.css
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.exe
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.deps.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Hellang.Middleware.ProblemDetails.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\OnlineTest.Api.StaticWebAssets.xml
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineTest.Api.styles.css
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\Api\obj\Debug\netcoreapp3.1\OnlineTest.Api.csproj.CopyComplete

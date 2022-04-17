@@ -1,0 +1,118 @@
+<mat-form-field appearance="fill" class="matSelectMargin">
+  <mat-label>Choose Year</mat-label>
+  <mat-select [value]="selectedValue" (selectionChange)="onSelectChange($event)">
+    <mat-option [value]="year" *ngFor="let year of Years">{{ year }}</mat-option>
+  </mat-select>
+</mat-form-field>
+
+<div style="overflow-x: auto;">
+  <ng-container *ngIf="selectedValue">
+    <table class="table  table-bordered" style="margin-top: 1%;margin-bottom: 1%; margin-left: 2%; margin-right: 2%;">
+      <thead class="table">
+        <tr>
+          <th colspan="14" style="text-align: center;"><b>Year {{selectedValue}}</b></th>
+        </tr>
+        <tr>
+          <th></th>
+          <th></th>
+          <th *ngFor="let incomeCost of IncomeCosts" class="th-center"> <label
+              class="text-dark-75 ">{{incomeCost.month}}</label></th>
+        </tr>
+        <tr>
+          <td></td>
+          <td style="min-width: 60px">Income</td>
+          <td *ngFor="let incomeCost of IncomeCosts">{{incomeCost.income}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>CumulativeIncome</td>
+          <td *ngFor="let incomeCost of IncomeCosts">{{incomeCost.cumulativeIncome}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>Cost</td>
+          <td *ngFor="let incomeCost of IncomeCosts">{{incomeCost.cost}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>CumulativeCost</td>
+          <td *ngFor="let incomeCost of IncomeCosts">{{incomeCost.cumulativeCost}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>Result</td>
+          <td *ngFor="let incomeCost of IncomeCosts">{{incomeCost.result}}</td>
+        </tr>
+        <tr>
+          <th colspan="14" style="text-align: center;"><b>Reconsiliation</b></th>
+        </tr>
+        <tr>
+          <th rowspan="3">Income</th>
+          <td>Type1</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="incomeType1" style="width: 60px"class="mr-4" type="text" [value]="incomeExpense.incomeType1"
+              (focusout)="onColumnIncomeType1Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td>Type2</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="incomeType2" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.incomeType2"
+              (focusout)="onColumnIncomeType2Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td>Type3</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="incomeType3" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.incomeType3"
+              (focusout)="onColumnIncomeType3Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <th rowspan="4">Expense</th>
+          <td>Type1</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="expenseType1" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.expenseType1"
+              (focusout)="onColumnExpenseType1Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td>Type2</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="expenseType2" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.expenseType2"
+              (focusout)="onColumnExpenseType2Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td>Type3</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="expenseType3" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.expenseType3"
+              (focusout)="onColumnExpenseType3Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td>Type4</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">
+            <input id="expenseType4" style="width: 60px" class="mr-4" type="text" [value]="incomeExpense.expenseType4"
+              (focusout)="onColumnExpenseType4Change($event,incomeExpense)">
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>ReconciliationResult</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">{{incomeExpense.reconciliationResult}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>FinalResult</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">{{incomeExpense.finalResult}}</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>CumulativeFinalResult</td>
+          <td *ngFor="let incomeExpense of IncomeExpenses">{{incomeExpense.cumulativeFinalResult}}</td>
+        </tr>
+      </thead>
+    </table>
+  </ng-container>
+</div>

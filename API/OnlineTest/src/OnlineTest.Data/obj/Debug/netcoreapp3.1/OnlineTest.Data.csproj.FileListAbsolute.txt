@@ -1,0 +1,75 @@
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.deps.json
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CopyComplete
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.deps.json
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+D:\OSC\Project\OnlineTest\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.AssemblyReference.cache
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfoInputs.cache
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfo.cs
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CoreCompileInputs.cache
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CopyComplete
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.deps.json
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.AssemblyReference.cache
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfoInputs.cache
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfo.cs
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CoreCompileInputs.cache
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.dll
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+D:\OSC\Project\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CopyComplete
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.deps.json
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.deps.json
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Business.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\bin\Debug\netcoreapp3.1\OnlineTest.Contract.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.dll
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.pdb
+C:\Users\User\Desktop\New folder\OnlineTest\src\OnlineTest.Data\obj\Debug\netcoreapp3.1\OnlineTest.Data.csproj.CopyComplete

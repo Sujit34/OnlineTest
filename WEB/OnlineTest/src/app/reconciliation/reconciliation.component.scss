@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid gray;
+    min-width: 60px;
+  }
+  
+  .rowBold{
+    font-weight: 700;
+  }
+  
+  .largeColumn{
+    width: 600px;
+  }
+  
+  .textCenter{
+    text-align:center;
+    width: 100%
+  }
+  
+  .border-none{
+    border-top: none;
+  }
+  
+  .spanStyle{
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    text-align: center;
+  }
+  .matSelectMargin{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
